@@ -1,2 +1,2 @@
 # AI-Powered Lead Qualification & Auto-Reply Agent
-This is an Ai agent to hel the sale department 
+This is an Ai agent to help the sale department 
